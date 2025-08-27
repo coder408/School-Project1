@@ -1,3 +1,8 @@
+CREDITS TO R74N AND R74N.com FOR THE SANDBOXELS SHELL
+
+SchoolProject1 Is a Modification + Save States for the Lab Safety unit in Science class
+The point of the game and the point of these Save States are to teach you about lab safety.
+
 8/27/25 [SCIENCE CLASS 7B]
 
 How to download the project
